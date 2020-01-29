@@ -9,6 +9,7 @@
 
     "author": "IT-Projects LLC, Ivan Yelizariev",
     "website": "https://it-projects.info",
+    "live_test_url": "https://example.com/v9",
     "license": "GPL-3",
     #"price": 9.00,
     #"currency": "EUR",
